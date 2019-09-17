@@ -1,3 +1,4 @@
 # Helena Júlía Kristinsdottir & Silja Björk Axelsdóttir
 
-hér eru breytingar
+#halló ég heiti helena
+x = 5 
